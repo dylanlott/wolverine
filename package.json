@@ -1,0 +1,21 @@
+{
+  "name": "wolverine",
+  "version": "1.0.0",
+  "description": "start a firebase-like mongo server with one command",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && mocha ./test"
+  },
+  "keywords": [
+    "mongoose",
+    "firebase",
+    "mongo",
+    "mongodb",
+    "es6"
+  ],
+  "author": "Dylan Lott <lott.dylan@gmail.com>",
+  "license": "AGPL-3.0",
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
